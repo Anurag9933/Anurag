@@ -1,0 +1,7 @@
+{
+  "name": "Indian Coin",
+  "symbol": "IND",
+  "decimals": 18,
+  "contractAddress": "0x91C17bCD297a72Cf520eA5f4F59895BA128BF83b",
+  "chainId": 56
+}
